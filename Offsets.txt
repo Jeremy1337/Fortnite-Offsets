@@ -1,0 +1,5 @@
+Fortnite Offsets
+
+Uworld: 0xe145cc0
+GObjects : 0xdf5e1a0
+GWorld : 0xe11fdc8
