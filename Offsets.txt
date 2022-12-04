@@ -3,3 +3,32 @@ Fortnite Offsets
 Uworld: 0xe145cc0
 GObjects : 0xdf5e1a0
 GWorld : 0xe11fdc8
+
+Uworld = 0xe11fdc8
+GoObjects = 0xdf5e1a0
+Levels = 0x170
+OwningGameInstance = 0x1b8
+bIsEquippingWeapon = 0x328
+bIsReloadingWeapon = 0x329
+WeaponData = 0x3f0
+WeaponMesh = 0x9d0
+CurrentWeapon = 0x868
+LastFireTime = 0xab0
+LastFireTimeVerified = 0xab4
+LastReloadTime = 0xb30
+bIsABot = 0x292
+PawnPrivate = 0x300
+PersistentLevel = 0x30
+AcknowledgedPawn = 0x330
+PlayerState = 0x2a8
+PlayerArray = 0x2a0
+AActors = 0x98
+ActorCount = 0xA0
+Persistentlevel = 0x30
+RootComponent = 0x190
+PlayerController = 0x30
+DBNO = 0x4250
+bIsDying = 0x6f8
+BoneArray = HAVENT GOT ATM
+TeamID = HAVENT GOT ATM
+Mesh = 0x310
